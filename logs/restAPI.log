@@ -1,0 +1,89 @@
+2020-06-01 18:41:55 INFO  ES_ProviderIndexUtils:31 - ResponseBody:Request is under processing for building index for Org ID: 74019
+2020-06-01 18:41:57 INFO  ES_ProviderIndexUtils:42 - StatusCode:200
+2020-06-01 18:41:57 INFO  ES_ProviderIndexUtils:49 - Provider Index exists as verified on Kibana
+2020-06-01 18:42:04 INFO  ES_InsuranceIndexUtils:28 - StatusCode:201
+2020-06-01 18:42:07 INFO  ES_InsuranceIndexUtils:28 - StatusCode:201
+2020-06-01 18:42:09 INFO  ES_InsuranceIndexUtils:37 - StatusCode:200
+2020-06-01 18:42:10 INFO  ES_InsuranceIndexUtils:45 - StatusCode:200
+2020-06-01 18:42:15 INFO  ES_InsuranceIndexUtils:28 - StatusCode:201
+2020-06-01 18:42:19 INFO  ES_InsuranceIndexUtils:56 - 200
+2020-06-01 18:42:19 INFO  ES_InsuranceIndexUtils:68 - carrierfetched
+2020-06-01 18:42:19 INFO  ES_InsuranceIndexUtils:72 - carrierID1223
+2020-06-01 18:42:19 INFO  ES_InsuranceIndexUtils:74 - planfetched
+2020-06-01 18:42:19 INFO  ES_InsuranceIndexUtils:81 - randomfor plan1
+2020-06-01 18:42:19 INFO  ES_InsuranceIndexUtils:83 - plandetailfetched
+2020-06-01 18:42:19 INFO  ES_InsuranceIndexUtils:85 - plan name:Apex
+2020-06-01 18:42:19 INFO  ES_InsuranceIndexUtils:87 - planId:6404
+2020-06-01 18:42:23 INFO  ES_InsuranceIndexUtils:108 - carrierId found
+2020-06-01 18:42:24 INFO  ES_InsuranceIndexUtils:124 - planName found
+2020-06-01 18:42:24 INFO  ES_InsuranceIndexUtils:126 - planId found
+2020-07-14 04:15:33 INFO  ES_ProviderIndexUtils:37 - ResponseBody:Request is under processing for building index for Org ID: 71722
+2020-07-14 04:15:35 INFO  ES_ProviderIndexUtils:48 - StatusCode:200
+2020-07-14 04:15:35 INFO  ES_ProviderIndexUtils:55 - Provider Index exists as verified on Kibana
+2020-07-14 04:15:39 INFO  ES_SpecialtyIndexUtils:31 - ResponseBody:Request is under processing for creating and building specialties index for Org ID: 71722
+2020-07-14 04:15:40 INFO  ES_SpecialtyIndexUtils:41 - StatusCode:200
+2020-07-14 04:15:40 INFO  ES_SpecialtyIndexUtils:48 - specialty Index exists as verified on Kibana
+2020-07-14 04:15:45 INFO  ES_ReasonIndexUtils:32 - ResponseBody:Request is under processing for creating and building reasons index for Org ID: 71722
+2020-07-14 04:15:46 INFO  ES_ReasonIndexUtils:42 - StatusCode:200
+2020-07-14 04:15:46 INFO  ES_ReasonIndexUtils:50 - Reason Index exists as verified on Kibana
+2020-07-14 04:15:49 INFO  ES_ProviderIndexUtils:37 - ResponseBody:Request is under processing for building index for Org ID: 71722
+2020-07-14 04:15:51 INFO  ES_ProviderIndexUtils:48 - StatusCode:200
+2020-07-14 04:15:51 INFO  ES_ProviderIndexUtils:55 - Provider Index exists as verified on Kibana
+2020-07-14 04:15:53 INFO  ES_ProviderIndexUtils:92 - statusCode:200
+2020-07-14 04:15:53 INFO  ES_ProviderIndexUtils:93 - ResposeBody:{"status":"success","data":[[158382,0],[435949,0],[436461,0],[436464,0],[436465,0],[436466,0],[436467,0],[436468,0],[436469,0],[436470,0],[436471,0],[235033,1],[235034,1],[235035,1],[235036,1],[235037,1],[235038,1],[235039,1],[235040,1],[235041,1],[235042,1],[235044,1],[235045,1],[235046,1],[235047,1],[235049,1],[235050,1],[235051,1],[235052,1],[235053,1],[235054,1],[235055,1],[235056,1],[235057,1]]}
+2020-07-14 04:15:55 INFO  ES_ProviderIndexUtils:125 - Providers verified
+2020-07-14 04:15:58 INFO  ES_ProviderIndexUtils:37 - ResponseBody:Request is under processing for building index for Org ID: 71722
+2020-07-14 04:16:00 INFO  ES_ProviderIndexUtils:48 - StatusCode:200
+2020-07-14 04:16:00 INFO  ES_ProviderIndexUtils:55 - Provider Index exists as verified on Kibana
+2020-07-14 04:16:01 INFO  ES_ProviderIndexUtils:66 - StatusCode:200
+2020-07-14 04:16:03 INFO  ES_ProviderIndexUtils:81 - ProviderIndex does not exist for org:71722
+2020-07-14 04:16:07 INFO  ES_InsuranceIndexUtils:28 - StatusCode:201
+2020-07-14 04:16:11 INFO  ES_InsuranceIndexUtils:28 - StatusCode:201
+2020-07-14 04:16:12 INFO  ES_InsuranceIndexUtils:38 - StatusCode:200
+2020-07-14 04:16:14 INFO  ES_InsuranceIndexUtils:46 - StatusCode:200
+2020-07-14 04:16:20 INFO  ES_InsuranceIndexUtils:28 - StatusCode:201
+2020-07-14 04:16:24 INFO  ES_InsuranceIndexUtils:57 - 200
+2020-07-14 04:16:25 INFO  ES_InsuranceIndexUtils:69 - carrierfetched
+2020-07-14 04:16:25 INFO  ES_InsuranceIndexUtils:73 - carrierID651
+2020-07-14 04:16:25 INFO  ES_InsuranceIndexUtils:75 - planfetched
+2020-07-14 04:16:25 INFO  ES_InsuranceIndexUtils:82 - randomfor plan1
+2020-07-14 04:16:25 INFO  ES_InsuranceIndexUtils:84 - plandetailfetched
+2020-07-14 04:16:25 INFO  ES_InsuranceIndexUtils:86 - plan name:Stratus Resource Co.
+2020-07-14 04:16:25 INFO  ES_InsuranceIndexUtils:88 - planId:4757
+2020-07-14 04:16:30 INFO  ES_InsuranceIndexUtils:109 - carrierId found
+2020-07-14 04:16:31 INFO  ES_InsuranceIndexUtils:125 - planName found
+2020-07-14 04:16:31 INFO  ES_InsuranceIndexUtils:127 - planId found
+2020-07-14 04:16:34 INFO  ES_LaravelUtils:37 - ResponseBody:[{"specialtyId":76,"orgId":74019,"customSpecialtyNameEn":"Acupuncture ","standardSpecialtyNameEn":"Acupuncture ","customSpecialtyNameEs":"Acupuntura","standardSpecialtyNameEs":"Acupuntura"},{"specialtyId":2,"orgId":74019,"customSpecialtyNameEn":"Primary Care","standardSpecialtyNameEn":"Primary Care","customSpecialtyNameEs":"Atenci\u00f3n primaria","standardSpecialtyNameEs":"Atenci\u00f3n primaria"},{"specialtyId":5,"orgId":74019,"customSpecialtyNameEn":"My Specialty3","standardSpecialtyNameEn":"My Specialty3","customSpecialtyNameEs":"My Specialty3","standardSpecialtyNameEs":"My Specialty3"},{"specialtyId":39,"orgId":74019,"customSpecialtyNameEn":"Audiology","standardSpecialtyNameEn":"Audiology","customSpecialtyNameEs":"Audiolog\u00eda","standardSpecialtyNameEs":"Audiolog\u00eda"},{"specialtyId":43,"orgId":74019,"customSpecialtyNameEn":"CCM","standardSpecialtyNameEn":"Critical Care Medicine ","customSpecialtyNameEs":"CCM","standardSpecialtyNameEs":"Medicina de Terapia Intensiva"},{"specialtyId":2,"orgId":74019,"customSpecialtyNameEn":"Primary care","standardSpecialtyNameEn":"Primary Care","customSpecialtyNameEs":"Primary care","standardSpecialtyNameEs":"Atenci\u00f3n primaria"},{"specialtyId":76,"orgId":74019,"customSpecialtyNameEn":"AC","standardSpecialtyNameEn":"Acupuncture ","customSpecialtyNameEs":"AC","standardSpecialtyNameEs":"Acupuntura"},{"specialtyId":13,"orgId":74019,"customSpecialtyNameEn":"Addition Medicine Care","standardSpecialtyNameEn":"Addition Medicine Care","customSpecialtyNameEs":"Adici\u00f3n de cuidado de la medicina","standardSpecialtyNameEs":"Adici\u00f3n de cuidado de la medicina"}]
+2020-07-14 04:16:37 INFO  ES_LaravelUtils:73 - ResponseBody:{"status":"success","data":{"providerId":429229,"isCenter":0,"orgId":74191}}
+2020-07-14 04:16:41 INFO  ES_LaravelUtils:223 - ResponseBody:{"status":"success","data":{"providerId":429228,"isCenter":0,"orgId":74191}}
+2020-07-14 04:16:44 INFO  ES_LaravelUtils:107 - ResponseBody:{"status":"success","data":[{"providerId":429186,"isCenter":0,"orgId":74191},{"providerId":429229,"isCenter":0,"orgId":74191},{"providerId":429231,"isCenter":0,"orgId":74191},{"providerId":429234,"isCenter":0,"orgId":74191},{"providerId":429236,"isCenter":0,"orgId":74191},{"providerId":429240,"isCenter":0,"orgId":74191},{"providerId":429242,"isCenter":0,"orgId":74191},{"providerId":429244,"isCenter":0,"orgId":74191},{"providerId":429247,"isCenter":0,"orgId":74191},{"providerId":429251,"isCenter":0,"orgId":74191},{"providerId":429257,"isCenter":0,"orgId":74191},{"providerId":429261,"isCenter":0,"orgId":74191},{"providerId":429265,"isCenter":0,"orgId":74191},{"providerId":430896,"isCenter":0,"orgId":74191},{"providerId":430899,"isCenter":0,"orgId":74191},{"providerId":435972,"isCenter":0,"orgId":74191},{"providerId":435973,"isCenter":0,"orgId":74191}]}
+2020-07-14 04:16:47 INFO  ES_LaravelUtils:143 - ResponseBody:{"status":"success","data":[{"providerId":429228,"isCenter":0,"orgId":74191},{"providerId":429229,"isCenter":0,"orgId":74191},{"providerId":429230,"isCenter":0,"orgId":74191},{"providerId":432053,"isCenter":0,"orgId":74191}]}
+2020-07-14 04:16:50 INFO  ES_LaravelUtils:179 - ResponseBody:{"status":"success","data":{"is_center":0,"provider_id":429228,"lat_long":"29.55641, -95.14399","org_code":"tch","org_id":74191,"super_org_id":0,"is_deleted":0,"relative_weights":[],"is_clean_profile":1,"is_publish_schedule_live":1,"is_registered":1,"channel_ids":[36,76,175],"channel_codes":["DA","TCH","tchagt"],"doctor":{"id":143825,"fname":"Paul F.","lname":"Austin","gender":"M","title":"MD","image_url":"https:\/\/staticqa.docasap.com\/images\/docPics\/PaulFAustinPhysi.jpg","language":null},"provider_name":{"last_name":"Austin","first_name":"Paul F."},"practice":{"id":232891,"name":"Texas Children's Clear Lake Health Center: Pediatric Urology","image_url":"https:\/\/staticqa.docasap.com\/images\/centerPics\/da-o-74191.jpg","phone_number":"","is_deleted":0},"address":{"street":"940 Clear Lake City Blvd.","city":"Webster","state":"TX","zip":"77598"},"overall_ratings":0,"profileLink":"doctor\/Paul-F-Austin","search_weight":null,"registered_live_status":1,"specialities":[{"id":70,"english_name":"Pediatric Allergy & Immunology","spanish_name":"Alergia e inmunolog\u00eda pedi\u00e1trica"},{"id":65,"english_name":"Pediatric Nephrology","spanish_name":"Nefrolog\u00eda pedi\u00e1trica"},{"id":69,"english_name":"Pediatric Urology","spanish_name":"Urolog\u00eda pedi\u00e1trica"}],"primary_specialty":{"id":70,"english_name":"Pediatric Allergy & Immunology","spanish_name":"Alergia e inmunolog\u00eda pedi\u00e1trica"},"group_ids":[26,25,18,24,19],"group_codes":["AM-All","KW-Glen","MW-TexMed","SU-Sugar","WL-TheWood"]}}
+2020-07-14 04:16:53 INFO  ES_LaravelUtils:257 - ResponseBody:[22,23,24,25,26,27,28,29,213,214,215,216,217,218,219,220,221,235,236,237,238,239,240,241,242,243,244,245,246,247,248,249,250,251,252,253,254,255,259,264,265,266,267,268,269,311,312,313,314,315,316,317,318,319,391,392,393,394,395,396,397,398,399,400,401,402,403,404,405,506,507,508,509,510,511,512,513,514,515,516,517,569,570,571,572,573,574,575,585,586,668,669,712,713,750,751,752,753,754,755,756,757,758,759,760,761,762,763,764,765,766,767,768,769,770,771,772,773,774,775,776,777,778,779,1445,1446,1447,1449,1451,1452,1453,1454,1455,1456,1457,1458,1502,1503,1504,1506,1507,1509,1532,1533,1534,1535,1575,1576,1577,1578,1579,1580,1581,1582,1583,1584,1585,1597,1607,1608,1609,1610,1611,1614,1615,1716,1717,1719,1720,1723,6099,6109,6110,6112,6113,6130,6131,6132,6133,6134,6135,6136,6137,6138,6139,6140,6141,6142,6143,6144,6146,6147,6152,6157,6425,9439,9440,9444,9446,9447,9523,11347,11350,60745,60746,79331,82805,82809,82819,82820,82821,82822,82823,82824,89137,89172]
+2020-07-14 04:16:57 INFO  ES_LaravelUtils:296 - ResponseBody:{"orgId":38,"reasonId":1446,"parentReasonId":0,"specialtyId":5,"parentReasonsList":[],"standardReasonNameEn":"Circumcision","standardReasonNameEs":"Circuncisi\u00f3n","customReasonNameEn":"Circumcision","customReasonNameEs":"Circuncisi\u00f3n","notLiveProviderList":null}
+2020-07-14 04:17:08 INFO  ES_LaravelUtils:257 - ResponseBody:[22,23,24,25,26,27,28,29,213,214,215,216,217,218,219,220,221,235,236,237,238,239,240,241,242,243,244,245,246,247,248,249,250,251,252,253,254,255,259,264,265,266,267,268,269,311,312,313,314,315,316,317,318,319,391,392,393,394,395,396,397,398,399,400,401,402,403,404,405,506,507,508,509,510,511,512,513,514,515,516,517,569,570,571,572,573,574,575,585,586,668,669,712,713,750,751,752,753,754,755,756,757,758,759,760,761,762,763,764,765,766,767,768,769,770,771,772,773,774,775,776,777,778,779,1445,1446,1447,1449,1451,1452,1453,1454,1455,1456,1457,1458,1502,1503,1504,1506,1507,1509,1532,1533,1534,1535,1575,1576,1577,1578,1579,1580,1581,1582,1583,1584,1585,1597,1607,1608,1609,1610,1611,1614,1615,1716,1717,1719,1720,1723,6099,6109,6110,6112,6113,6130,6131,6132,6133,6134,6135,6136,6137,6138,6139,6140,6141,6142,6143,6144,6146,6147,6152,6157,6425,9439,9440,9444,9446,9447,9523,11347,11350,60745,60746,79331,82805,82809,82819,82820,82821,82822,82823,82824,89137,89172]
+2020-07-14 04:17:10 INFO  ES_LaravelUtils:296 - ResponseBody:{"orgId":38,"reasonId":1446,"parentReasonId":0,"specialtyId":5,"parentReasonsList":[],"standardReasonNameEn":"Circumcision","standardReasonNameEs":"Circuncisi\u00f3n","customReasonNameEn":"Circumcision","customReasonNameEs":"Circuncisi\u00f3n","notLiveProviderList":null}
+2021-02-03 23:17:27 INFO  ElasticSearchBuilderBase:22 - test
+2021-02-03 23:23:49 INFO  ElasticSearchBuilderBase:22 - test
+2021-02-03 23:35:41 INFO  ElasticSearchBuilderBase:22 - test
+2021-02-04 10:52:17 INFO  ElasticSearchBuilderBase:22 - test
+2021-02-04 10:55:26 INFO  ElasticSearchBuilderBase:22 - test
+2021-02-04 10:56:43 INFO  ElasticSearchBuilderBase:22 - test
+2021-02-04 13:55:11 INFO  ElasticSearchBuilderBase:22 - test
+2021-02-04 13:58:55 INFO  ElasticSearchBuilderBase:22 - test
+2021-02-04 14:49:40 INFO  ElasticSearchBuilderBase:22 - test
+2021-02-04 14:51:59 INFO  ElasticSearchBuilderBase:22 - test
+2021-02-04 15:07:16 INFO  ElasticSearchBuilderBase:22 - test
+2021-02-04 15:18:05 INFO  ElasticSearchBuilderBase:22 - test
+2021-02-04 17:39:51 INFO  ElasticSearchBuilderBase:22 - test
+2021-02-05 11:00:23 INFO  ElasticSearchBuilderBase:22 - test
+2021-02-05 11:01:28 INFO  ElasticSearchBuilderBase:22 - test
+2021-02-05 11:03:08 INFO  ElasticSearchBuilderBase:22 - test
+2021-02-05 11:08:48 INFO  ElasticSearchBuilderBase:22 - test
+2021-02-05 11:10:04 INFO  ElasticSearchBuilderBase:22 - test
+2021-02-05 11:11:38 INFO  ElasticSearchBuilderBase:22 - test
+2021-02-05 11:15:19 INFO  ElasticSearchBuilderBase:22 - test
+2021-02-05 11:43:59 INFO  ElasticSearchBuilderBase:22 - test
+2021-02-05 12:03:44 INFO  ElasticSearchBuilderBase:22 - test
+2021-02-05 12:04:11 INFO  ElasticSearchBuilderBase:22 - test
+2021-02-05 12:05:38 INFO  ElasticSearchBuilderBase:22 - test
