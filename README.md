@@ -2,7 +2,7 @@
 #https://any-api.com/weatherbit_io/weatherbit_io/docs/API_Description
 # Cucumber BDD approach for weatherbit application
 # Feature file is placed inside test/src/resource
-Pre -Requisites 
+Prerequisite 
 Maven and Java 8
 
 To install dependencies and run
