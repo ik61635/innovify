@@ -7,6 +7,6 @@ import org.junit.runner.RunWith;
 import com.innovify.testbase.TestBase;
 
 @RunWith(CucumberWithSerenity.class)
-@CucumberOptions(features = {"src/test/resources/SecureVideo/WeatherData.feature"})
+@CucumberOptions(features = {"src/test/resources/FeatureFile/WeatherData.feature"})
 public class TestRunner extends TestBase {}
 
