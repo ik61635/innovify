@@ -5,11 +5,11 @@
 Pre -Requisites 
 Maven and Java 8
 
-#To install dependencies and run
+To install dependencies and run
 mvn clean install
 
-#To run 
+To run 
 mvn test
 
-#Report will be generated inside below folder with name index.html 
+Report will be generated inside below folder with name index.html 
 \target\site\serenity
